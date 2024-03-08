@@ -1,18 +1,17 @@
 {
   "name": "web3-functions1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "homepage": "https://github.com/ptkhanh94/Web3-functions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptkhanh94/Web3-functions.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chatgpt": "^5.2.5",
-    "functions": "^1.0.9",
-    "node": "^21.7.0",
-    "web3": "^4.6.0"
-  }
+  "license": "ISC"
 }
