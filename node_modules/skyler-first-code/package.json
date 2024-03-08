@@ -1,0 +1,26 @@
+{
+  "name": "skyler-first-code",
+  "version": "1.0.2",
+  "description": "A simple npm package",
+  "homepage": "https://github.com/ptkhanh94/skyler-first-code/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptkhanh94/skyler-first-code"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "Skyler",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "calendar-note-9th": "^1.0.5",
+    "chalk-6th": "^1.0.1",
+    "get-data-4th": "^1.0.1",
+    "remind-works-8th": "^1.0.1",
+    "test-app-number-7th": "^1.0.1",
+    "time-alert-5th": "^1.0.3",
+    "urlbitbucket-to-object": "^1.0.1"
+  }
+}

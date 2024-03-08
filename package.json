@@ -13,5 +13,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "give-advice-10th": "^1.0.3",
+    "time-alert-5th": "^1.0.5"
+  }
 }
